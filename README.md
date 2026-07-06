@@ -1,6 +1,7 @@
-# privatecredit
- Private Credit related research work
- 
+# Private Credit Research Corpus
+ > **⚠️ Synthetic Research Artifact**
+All agreements, entities, borrowers, lenders, and financial terms in this repository are entirely fictitious and were synthesized for research purposes. No document here represents a real transaction, real party, or real confidential information.
+
 # Meridian Composites Open Private Credit Agreement Benchmark
 
 A fully synthetic private credit agreement for document AI, covenant extraction, GraphRAG, ontology design, and agentic compliance research.
