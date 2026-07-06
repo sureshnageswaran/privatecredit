@@ -656,3 +656,87 @@ Build a graph connecting:
 * Collateral requirements
 * Subsidiary classifications
 * Permitted and prohibited actions
+
+
+## Responsible Use
+
+This artifact is intended to support open research and education.
+
+Please do not use it to:
+
+* Represent a real transaction
+* Train systems that provide legal advice without attorney review
+* Market financial products as if the agreement were real
+* Mislead users into believing the document is an actual credit agreement
+* Replace professional legal, credit, or investment judgment
+
+If you use this artifact in a model, demo, article, benchmark, or academic project, clearly disclose that the underlying document is synthetic.
+
+## Suggested Citation
+
+If you use this artifact, please cite it as:
+
+```text
+Meridian Composites Open Private Credit Agreement Benchmark,
+synthetic private credit agreement research artifact,
+created for covenant extraction, document AI, GraphRAG, and agentic compliance research.
+```
+
+Suggested BibTeX entry:
+
+```bibtex
+@misc{meridian_composites_private_credit_benchmark,
+  title        = {Meridian Composites Open Private Credit Agreement Benchmark},
+  author       = {Suresh Nageswaran},
+  year         = {2026},
+  note         = {Synthetic private credit agreement for document AI, covenant extraction, GraphRAG, and agentic compliance research}
+}
+```
+
+## Contributing
+
+Contributions are welcome.
+
+Useful contributions include:
+
+* Clause annotations
+* Defined-term extraction
+* Covenant extraction labels
+* Basket labels
+* Question-answer pairs
+* Scenario tests
+* Ontology improvements
+* GraphRAG schemas
+* Markdown or JSON conversions
+* Additional synthetic private credit documents
+* Benchmark results from different models
+
+Potential future synthetic documents could include:
+
+* First amendment
+* Waiver letter
+* Compliance certificate
+* Borrowing request
+* DDTL funding notice
+* Quarterly financial package
+* Officer certificate
+* Notice of default
+* Intercreditor agreement
+* Security agreement
+* Sponsor support letter
+* Restructuring support agreement
+
+
+
+## Project Status
+
+Initial release.
+
+The first version includes the synthetic Meridian Composites credit agreement as a PDF. Additional structured formats, annotations, benchmark questions, and ontology files may be added later.
+
+## Contact
+
+Created by Suresh Nageswaran.
+
+This project is part of a broader effort to make alternative investments, private credit, and institutional finance more accessible to AI researchers, engineers, students, and practitioners.
+
